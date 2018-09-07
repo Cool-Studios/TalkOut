@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_wifi.xml",
+        "source": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\src\\main\\res\\layout\\dialog_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_row.xml",
+        "source": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\src\\main\\res\\layout\\list_view_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_settings.xml",
+        "source": "C:\\Users\\coolb\\Downloads\\WalkieTalkie-master\\src\\main\\res\\layout\\dialog_settings.xml"
+    }
+]

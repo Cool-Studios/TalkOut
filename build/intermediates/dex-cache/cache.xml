@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\coolb\.gradle\caches\modules-2\files-2.1\org.js-labs\js-collider\0.1.2\6015b9adc3747960ed5fb7c186c9b4b64ee0be54\js-collider-0.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6015b9adc3747960ed5fb7c186c9b4b64ee0be54">
+        <dex dex="C:\Users\coolb\Downloads\WalkieTalkie-master\build\intermediates\pre-dexed\debug\js-collider-0.1.2_8821a5b0237264a2817689de82c818cc412f628b.jar" />
+    </item>
+
+</items>
